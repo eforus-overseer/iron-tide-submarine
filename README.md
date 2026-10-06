@@ -83,3 +83,11 @@ JavaScript syntax checks and a browser capture pass cover startup and switching 
 An original browser-scale submarine game inspired by classic WWII naval simulators. **Silent Hunter** is a reference for inspiration; this project is independent and unaffiliated with that series.
 
 Rendering uses Three.js; its MIT license is included in [`dist/vendor/THREE-LICENSE.txt`](dist/vendor/THREE-LICENSE.txt).
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/iron-tide-submarine/) — Explore the project, its method, and available demos or original artifacts.
+<!-- demo-lab:end -->
