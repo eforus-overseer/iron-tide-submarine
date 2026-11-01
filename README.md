@@ -91,3 +91,11 @@ Rendering uses Three.js; its MIT license is included in [`dist/vendor/THREE-LICE
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/iron-tide-submarine/) — Explore the project, its method, and available demos or original artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for iron-tide-submarine](assets/pixel-art.svg)
+
+A small visual signature for this repository.
